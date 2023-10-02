@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anwar Hosen</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Working at **Academy LMS**
 
 - 👨‍💻 All of my projects are available at [https://spiffy-monstera-a255ca.netlify.app/](https://spiffy-monstera-a255ca.netlify.app/)
 
